@@ -1,0 +1,29 @@
+# Python secondary files
+__pycache__/
+*.py[cod]
+*$py.class
+.analysis/.ipynb_checkpoints
+
+# VS Code config file
+.vscode/
+
+# Datasets
+*.csv
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Input/Output and Log files
+.input/*
+.output/*
+.log/*
+
+# Other files
+docker_step_by_step.txt
+*.pbix
